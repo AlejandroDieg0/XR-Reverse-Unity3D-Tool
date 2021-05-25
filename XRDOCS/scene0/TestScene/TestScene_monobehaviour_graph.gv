@@ -1,0 +1,7 @@
+digraph graphname {
+9 [label="m_GameObject\nfileID: 722127363\n"] [color="yellowgreen"] [style="rounded,filled"] [shape="box"];
+2 [label="MonoBehaviour_114_ID722127364\nm_Script: {'guid': '96d347c34434d674abfcf6224d2acf63', 'type': 3, 'fileID': 11500000}\n"] [color="lightpink"] [style="rounded,filled"] [shape="box"];
+2 -> 9 [label=""];
+1 [label=""] [color="red"] [style="filled"];
+1 -> 2 [label=""];
+}
